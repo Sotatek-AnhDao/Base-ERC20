@@ -1,0 +1,8 @@
+node_modules
+deployments
+.env
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
